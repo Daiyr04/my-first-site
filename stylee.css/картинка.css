@@ -1,0 +1,36 @@
+div{
+    border: 0px solid;
+    width: 600px;
+    height: 400px;
+    background-color: red;
+    margin:auto;
+    
+
+
+}
+.туз{
+    z-index: 99;
+    padding-top: 50px;
+    margin-left: 55px;
+    
+}
+.дама{
+    margin-left:-60px;
+    position: fixed;
+    z-index: 97;
+    padding-top: 50px;
+    
+}
+.журок{
+    position: absolute;
+    margin-left: 2%;
+    z-index: 99;
+    padding-top: 50px;
+}
+header{
+    background-color: red;
+}
+body{
+    height: 2000px;
+    margin: 0;
+}

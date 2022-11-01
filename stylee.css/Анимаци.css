@@ -1,0 +1,51 @@
+
+button{
+    border: 3px solid black;
+    background: black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 100%;
+    color: azure;
+    font-size: 20px;
+    font-weight: bold;
+    /* animation-name: move-to-right;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+} */
+
+
+/* @keyframes move-to-right {
+    0% {
+        margin-left: 10px;
+    }
+    20%{
+        background: yellow;
+    }
+    40%{
+        background: green;
+    }
+    60%{
+        background: red;
+    }
+    80%{
+        background: aqua;
+    }
+    100% {
+        margin-left: 1330px;
+        background: blue;
+    }
+   
+     
+} */
+/* div{
+    border-left: solid 30px black;
+    border-right: solid 30px black;
+}

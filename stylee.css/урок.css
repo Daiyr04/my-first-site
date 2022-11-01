@@ -1,0 +1,18 @@
+.wrapper{
+    background: grey;
+    display: flex;
+    height: 300px;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    /* flex-direction: ; */
+    /* column; */
+    /* column-revers */
+}
+.box{
+    font-size: 30px;
+    color: yellow;
+    width: 100px;
+    height: 100px;
+    background: red;
+}

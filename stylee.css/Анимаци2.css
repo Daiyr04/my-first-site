@@ -1,0 +1,42 @@
+ body{
+background: pink;
+ }
+.box{
+    padding: 15px;
+    margin: 15px;
+    display: inline-block;
+    border-radius: 20px;
+    background-color: chartreuse;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+}
+.box:first-child{
+   background: red;
+}
+.box:last-child{
+    background: black;
+}
+.box:nth-child(4){
+    background: black;
+}
+.box:hover{
+    /* padding: 20px; */
+    /* background: #ccc; */
+    opacity: 0.5;
+}
+a:active{
+    background: #000;
+}
+a{
+    padding: 15px;
+    border-radius: 3px;
+    background-color: chartreuse;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+}
+input:focus{
+    padding: 10px;
+    border: 5px solid blue;
+}
